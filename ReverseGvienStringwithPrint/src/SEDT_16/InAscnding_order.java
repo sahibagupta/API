@@ -19,6 +19,8 @@ public class InAscnding_order {
 		}
 	
 	  }
+	  System.out.println(a[1]);
+	  System.out.println(a[a.length-2]);
 	  System.out.println("first max"+a[0]);
 	  System.out.println("second max"+a[1]);
 	  System.out.println("first min"+ a[a.length-1]);

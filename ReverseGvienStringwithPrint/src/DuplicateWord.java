@@ -6,7 +6,7 @@ import javax.print.DocFlavor.STRING;
 public class DuplicateWord {
 
 	public static void main(String[] args) {
-		String s= "welcome to bhopal";
+		String s= "welcome to bhopal welcome";
 		
 		String[] st= s.split(" ");
 		
